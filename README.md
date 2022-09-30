@@ -1,3 +1,3 @@
 # Pok-dexCompleta
 
-![image](https://user-images.githubusercontent.com/105496462/193263999-1d02fc73-0ae0-44db-a39a-0b5c257f8f78.png)
+![image](https://user-images.githubusercontent.com/105496462/193264133-605c64ae-2575-4d0d-9efa-6f04de47dda7.png)
